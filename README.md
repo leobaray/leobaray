@@ -18,15 +18,15 @@ Systems I built that are running right now:
 | [cnn-ml](https://github.com/leobaray/cnn-ml) | Image classification API — EfficientNetV2, GradCAM, ONNX export | Python, PyTorch, FastAPI |
 | [desc-hub](https://github.com/leobaray/desc-hub) | Supplier PDF → standardized DUIMP/Siscomex product descriptions | Python, FastAPI |
 | [magnum-site](https://github.com/leobaray/magnum-site) | PWA with fuzzy search, Schema.org, LGPD-compliant, top 3 on Google | HTML/CSS/JS |
-| [Automacao_SSPlus](https://github.com/leobaray/Automacao_SSPlus) | RPA automation for NF-e entry in legacy ERP | Python, pywinauto |
-| [software](https://github.com/leobaray/software) | Transmission shop management — REST API + cross-platform mobile app | Go, Flutter |
+| Automacao_SSPlus | RPA automation for NF-e entry in legacy ERP | Python, pywinauto |
+| software | Transmission shop management — REST API + cross-platform mobile app | Go, Flutter |
 
 ### Other projects
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| [tradencio](https://github.com/leobaray/tradencio) | LLM-driven paper-trading lab with adversarial analyst/reviewer architecture | Python, DuckDB |
-| [ia-com-docs-da-cab](https://github.com/leobaray/ia-com-docs-da-cab) | RAG assistant — hybrid dense+BM25 search with RRF fusion and cross-encoder rerank | Python, LanceDB |
+| tradencio | LLM-driven paper-trading lab with adversarial analyst/reviewer architecture | Python, DuckDB |
+| ia-com-docs-da-cab | RAG assistant — hybrid dense+BM25 search with RRF fusion and cross-encoder rerank | Python, LanceDB |
 | [baray](https://github.com/leobaray/baray) | Serigrafia ERP with production scheduling and billing | Dart, Flutter |
 | [canva](https://github.com/leobaray/canva) | Infinite canvas for software architecture diagrams | React 19, Vite |
 | [sincronizador](https://github.com/leobaray/sincronizador) | Secure Windows→Linux file sync via Cloudflare Tunnel | Python |
