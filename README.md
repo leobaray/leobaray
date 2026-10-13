@@ -14,10 +14,10 @@ Systems I built that are running right now:
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [epi_system](https://github.com/leobaray/epi_system) | EPI management with NR-6/eSocial compliance, signed PDF generation | Python (stdlib) |
+| epi_system | EPI management with NR-6/eSocial compliance, signed PDF generation | Python (stdlib) |
 | [cnn-ml](https://github.com/leobaray/cnn-ml) | Image classification API — EfficientNetV2, GradCAM, ONNX export | Python, PyTorch, FastAPI |
 | [desc-hub](https://github.com/leobaray/desc-hub) | Supplier PDF → standardized DUIMP/Siscomex product descriptions | Python, FastAPI |
-| [magnum-site](https://github.com/leobaray/magnum-site) | PWA with fuzzy search, Schema.org, LGPD-compliant, top 3 on Google | HTML/CSS/JS |
+| [magnum-site](https://github.com/leobaray/magnum-site) | PWA with fuzzy search, Schema.org, LGPD-compliant, own rank tracker | HTML/CSS/JS |
 | Automacao_SSPlus | RPA automation for NF-e entry in legacy ERP | Python, pywinauto |
 | software | Transmission shop management — REST API + cross-platform mobile app | Go, Flutter |
 
@@ -34,6 +34,7 @@ Systems I built that are running right now:
 ### Open source
 
 - [plastic-labs/honcho#869](https://github.com/plastic-labs/honcho/pull/869) — security fix: Redis credentials leaking in log output
+- [agronholm/apscheduler#1121](https://github.com/agronholm/apscheduler/pull/1121) — fix: scheduler crash when a job is rerun after its lease expired (in review)
 
 ### Stack
 
